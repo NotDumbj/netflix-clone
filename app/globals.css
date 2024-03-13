@@ -13,3 +13,18 @@ body {
 html{
   @apply h-full;
 }
+
+.navbar{
+  width: 100%;
+  height: 5%;
+  position: fixed;
+  position-top: 0;
+  display: flex;
+  justify-item: center;
+  align-item: center;
+
+}
+
+.h1{
+  display: inline-block;
+}
