@@ -20,7 +20,7 @@ html{
   position: fixed;
   position-top: 0;
   display: flex;
-  justify-item: center;
+  justify-content: center;
   align-item: center;
 
 }
